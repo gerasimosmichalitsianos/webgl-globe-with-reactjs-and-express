@@ -17,8 +17,14 @@ To use this code, first check out the code. Then you must run the server (to run
 These commands work for me using a Linux terminal:
 
     $ git clone https://github.com/gerasimosmichalitsianos/webgl-globe-with-reactjs-and-express.git
-    $ cd https://github.com/gerasimosmichalitsianos/webgl-globe-with-reactjs-and-express.git
     $ cd webgl-globe-with-reactjs-and-express/server/
     $ npm run dev 
     $ cd ../
     $ npm start
+    
+###### Last Updated
+
+    Gerasimos "Geri" Michalitsianos
+    11 May 2023
+    Annapolis, Maryland
+    lakithra@protonmail.com
