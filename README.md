@@ -1,3 +1,5 @@
+## Interactive globe with globe-gl, react.js, and Express.js
+
 ###### Description
 
 Sample interactive globe using Node/Express.js, React.js and globe.gl. For a more detailed and complete description, see the following blog post:
